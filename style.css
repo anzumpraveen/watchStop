@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    font-size: 100px;
+}
+.container{
+    height: 50px;
+    width: 100%;
+
+}
+
+#display{
+    width: 100%;
+    color:white;
+    font-size: 200px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.buttons{
+    margin: auto;
+    text-align: center;
+
+}
+
+
